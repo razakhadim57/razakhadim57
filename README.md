@@ -4,7 +4,7 @@
 
 # Hi, I'm Raza Khadim Hussain 👋
 
-### Full Stack Developer from Pakistan 🇵🇰  
+### Full Stack Developer
 ### Building scalable SaaS products, Shopify apps, internal systems, and AI-powered software
 
 <p>
