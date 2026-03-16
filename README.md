@@ -1,95 +1,163 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=160&color=0:0d1117,100:00d9ff&text=Raza%20Khadim%20Hussain&fontSize=36&fontColor=fff&fontAlignY=70&rotate=-3&desc=Full%20Stack%20%7C%20Shopify%20Apps%20%7C%20SaaS%20Engineer&descAlignY=88&descSize=13" width="100%" />
-</div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:06b6d4&text=Raza%20Khadim%20Hussain&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Shopify%20App%20Builder%20•%20SaaS%20Product%20Engineer&descAlignY=52&descSize=16" />
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=razakhadim57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d9ff&icon_color=00d9ff&bg_color=0d1117&text_color=c9d1d9" />
+# Hi, I'm Raza Khadim Hussain 👋
 
-### Hey, I'm Raza 👋
+### Full Stack Developer from Pakistan 🇵🇰  
+### Building scalable SaaS products, Shopify apps, internal systems, and AI-powered software
 
-I build software that ships. As founder of **WebGuru** and **HelloDevs**, I've spent years turning complex business problems into clean, scalable products — Shopify apps, SaaS platforms, and AI-powered systems used by real clients.
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Shopify+%7C+AI+Automation;Turning+product+ideas+into+real+software;Founder-minded+developer+with+execution+focus" alt="Typing SVG" />
+</p>
 
-- 🔨 Building → **Cheggl**, **Social Flex**, **Task Manager SaaS**
-- 🛍️ Specialty → **Shopify public apps** + custom builds
-- 🤖 Exploring → **AI automation** + OpenAI integrations
-- 📍 Based in → **Lahore, Pakistan 🇵🇰**
-- ⚡ Last year → **833 commits** and still pushing
+<p>
+  <a href="https://www.linkedin.com/in/raza-khadim-hussain/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:razakhadim57@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://webguru.pk/">
+    <img src="https://img.shields.io/badge/WebGuru-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://hellodevs.io/">
+    <img src="https://img.shields.io/badge/HelloDevs-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raza-khadim-hussain/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:razakhadim57@gmail.com)
-[![WebGuru](https://img.shields.io/badge/-webguru.pk-00d9ff?style=flat-square&logo=vercel&logoColor=0d1117)](https://webguru.pk/)
-[![HelloDevs](https://img.shields.io/badge/-hellodevs.io-ffffff?style=flat-square&logo=googlechrome&logoColor=0d1117)](https://hellodevs.io/)
-
-<br clear="right"/>
-
----
-
-## 🛠️ What I Build With
-
-**Frontend**&nbsp;&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend**&nbsp;&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=flat-square&logo=prisma&logoColor=white)
-
-**Ecosystem**&nbsp;
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000?style=flat-square&logo=remix&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
----
-
-## 🚀 Selected Work
-
-| | Project | Description | Stack |
-|--|---------|-------------|-------|
-| 🎬 | **[Cheggl](https://cheggl.com)** | Video-business platform — dashboards, directories, and scalable web architecture | `Next.js` · `Node.js` · `MongoDB` |
-| 🛍️ | **[Social Flex](https://github.com/razakhadim57/)** | Shopify app — customizable social icon widgets for merchant storefronts | `Remix` · `Shopify` · `MongoDB` |
-| ✅ | **[Task Manager SaaS](https://github.com/razakhadim57/)** | Team productivity platform with structured workflows & role-based task execution | `Next.js` · `TypeScript` · `Node.js` |
-| 🏏 | **[Statsguru Scraper](https://github.com/razakhadim57/statsguru-scraper)** | Python scraper for structured cricket data extraction from ESPNCricinfo | `Python` · `BeautifulSoup` |
-
----
-
-## 📊 Stats & Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=razakhadim57&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff7b72&currStreakLabel=00d9ff&sideLabels=00d9ff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razakhadim57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=razakhadim57&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" width="100%" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=razakhadim57&label=Profile+Views&color=0891b2&style=flat" />
+</p>
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## About Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=razakhadim57&theme=tokyonight&no-frame=true&margin-w=6&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" />
-</div>
+I’m a full stack developer and product-focused builder who enjoys turning business problems into well-structured software.
+
+I work across **Next.js, React, Node.js, TypeScript, MongoDB, PostgreSQL, Shopify, and AI integrations** to build products that are not just visually strong, but also scalable, maintainable, and commercially useful.
+
+My focus is on building:
+- **SaaS products**
+- **Shopify apps**
+- **AI-powered workflows**
+- **Internal productivity systems**
+- **High-performance web platforms**
+
+---
+
+## What I’m Working On
+
+- Building **Shopify apps** and reusable product systems  
+- Developing **Task Management Systems** and internal business tools  
+- Creating **AI-assisted workflows** for product and process automation  
+- Working on scalable platforms like **Cheggl**, **Social Flex**, and custom SaaS solutions  
+- Growing **WebGuru** and **HelloDevs** with stronger product and engineering direction  
+
+---
+
+## Core Expertise
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/SCSS-0f172a?style=for-the-badge&logo=sass&logoColor=CC6699" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0f172a?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+</p>
+
+### Shopify, AI & Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Shopify-0f172a?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
+  <img src="https://img.shields.io/badge/Remix-0f172a?style=for-the-badge&logo=remix&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0f172a?style=for-the-badge&logo=digitalocean&logoColor=0080FF" />
+  <img src="https://img.shields.io/badge/PM2-0f172a?style=for-the-badge&logo=pm2&logoColor=9f7aea" />
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+</p>
+
+---
+
+## Selected Work
+
+### Cheggl
+Scalable platform work involving dashboards, business directory logic, modern web app architecture, and performance-focused development.
+
+### Social Flex
+A Shopify app concept focused on customizable social widgets, merchant flexibility, and scalable app-based productization.
+
+### Task Management System
+An internal productivity platform built around real workflow execution, team structure, and scalable project management logic.
+
+### statsguru-scraper
+A Python-based project for structured cricket data extraction and scraping.
+
+> I enjoy building products where **design, engineering, scalability, and business logic** work together.
+
+---
+
+## What Defines My Work
+
+- Clean and maintainable code
+- Product-first engineering decisions
+- Strong attention to UI structure and usability
+- Focus on real-world scalability
+- Founder-level thinking with developer-level execution
+- Building systems that solve actual business bottlenecks
+
+---
+
+## Current Direction
+
+Right now, I’m especially interested in:
+- **AI automation for business workflows**
+- **Shopify public app opportunities**
+- **SaaS product architecture**
+- **Internal tools that improve team execution**
+- **Turning service expertise into scalable software products**
+
+---
+
+## Let’s Connect
+
+<p align="left">
+  <a href="mailto:razakhadim57@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/raza-khadim-hussain/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://webguru.pk/">
+    <img src="https://img.shields.io/badge/Visit_WebGuru-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-*"I don't just write code — I build products that work."*
+### “I like building software that looks sharp, works hard, and solves real problems.”
 
-![Profile views](https://komarev.com/ghpvc/?username=razakhadim57&style=flat-square&color=00d9ff&label=profile+views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,100:00d9ff" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:06b6d4" />
 
 </div>
